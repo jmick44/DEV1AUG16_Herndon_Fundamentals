@@ -1,0 +1,2 @@
+---
+nginx::message: "This is from common.yaml"
